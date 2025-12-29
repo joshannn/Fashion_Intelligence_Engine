@@ -26,6 +26,12 @@ Essentially, it combines image analysis and social metrics to reveal the fashion
 
 This pipeline takes Instagram profile data and automatically categorizes clothing items into 60+ distinct fashion categories, from casual streetwear to evening wear, and from traditional ethnic attire to athletic sportswear.
 
+# Core Python Libraries
+- pip install instaloader
+- pip install git+https://github.com/openai/CLIP.git
+- pip install Pillow
+- pip install numpy
+
 ## Quick Summary
 
 - **Purpose:** Automatically detect and categorize clothing across 60+ fashion categories from Instagram images
