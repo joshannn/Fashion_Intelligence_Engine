@@ -12,7 +12,7 @@ Identify dominant fashion categories in the digital landscape
 
 
 Project Overview
-This pipeline takes Instagram profile data and automatically categorizes clothing items into 60+ distinct fashion categories, from casual streetwear to revealing evening wear, from traditional ethnic attire to athletic sportswear.
+This pipeline takes Instagram profile data and automatically categorizes clothing items into 60+ distinct fashion categories, from casual streetwear to  evening wear, from traditional ethnic attire to athletic sportswear.
 # Fashion Intelligence Engine
 
 A compact Python pipeline that turns social-media images into structured fashion insights using CLIP-based image understanding.
